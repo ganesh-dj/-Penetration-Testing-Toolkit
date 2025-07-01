@@ -140,14 +140,3 @@ Integrate advanced scanning (nmap wrapper, shodan API)
 Add a GUI version using Tkinter or PyQt
 
 
-
-⚠️ Disclaimer
-
-
-This project is intended only for educational and ethical hacking purposes.
-⚠️ Do not use these tools on live websites or servers without proper authorization.
-
-
-📜 License
-
-MIT License – Free to use, modify, and share.
